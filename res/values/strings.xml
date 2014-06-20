@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">McCrayTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ 	  <string name="button">Button</string>
+    <string name="web_page">Visit the BlackGirlsSocial Web Page</string>
+    <string name="image_selection">Select an Image</string>
+    <string name="view_contacts">View Contacts</string>
+    <string name="location_finder">Find My Location</string>
+</resources>
